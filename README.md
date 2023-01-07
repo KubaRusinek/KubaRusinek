@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KubaRusinek.
 - 👀 I’m interested in QA.
-- 🌱 I’m currently learning SEO.
+- 🌱 I’m currently learning SEO and Flutter Developer.
 - 💞️ I’m looking to collaborate with company that is testing software.
 - 📫 You can reach me at email rusinekjakub@gmail.com
 
